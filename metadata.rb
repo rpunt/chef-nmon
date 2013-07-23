@@ -8,5 +8,7 @@ version          '0.1.0'
 
 depends "yum"
 
+supports "ubuntu"
+supports "debian"
 supports "redhat"
 supports "centos"
